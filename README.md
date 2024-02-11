@@ -1,4 +1,4 @@
-# IMDB Clone 
+# ToDo App
 This project is a web application that utilizes the power of vanilla JavaScript to provide a seamless user experience. The main feature of the app is its ability to create tasks which will be stored in your native computer so that you can check the tasks whenever you want.
 
 The use of vanilla JavaScript allows for a lightweight and fast-performing application, without the need for any additional JavaScript frameworks. It's a great addition to your portfolio to show your ability to create a functional web application from scratch.
